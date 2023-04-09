@@ -21,7 +21,7 @@ export default function Home() {
 
     return (
         <div className="h-screen grid grid-cols-3 gap-3 content-center bg-gray-50">
-            <div className="mx-auto col-span-3 w-2/5">
+            <div className="mx-auto col-span-3 lg:w-2/5 w-4/5">
 
                 <div className="text-3xl font-bold space-x-2 mb-5 text-center">
                     <span className="text-red-500">G</span>
