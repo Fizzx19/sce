@@ -14,7 +14,6 @@ pnpm dev
 
 Open [https://gatot-search.vercel.app/](https://gatot-search.vercel.app/) with your browser to see the result.
 
-<img src="pre1.png" alt="preview" />
 <img src="pre2.png" alt="preview" />
 
 ## Learn More
