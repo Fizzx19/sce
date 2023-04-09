@@ -9,7 +9,7 @@ export default function Home() {
 
     const handleSubmit = async (event) => {
 
-        event.preventDefault();
+        event.preventDefault()
 
         setQuery(event.target.query.value)
         setSearch(true)
